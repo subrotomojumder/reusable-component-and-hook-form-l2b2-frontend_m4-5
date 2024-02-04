@@ -1,0 +1,7 @@
+@import "./style/button.css"; /* custom style ke upore import korte hobe. */
+@import "./style/typography.css";
+@import "./style/form.css";
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
